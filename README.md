@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello, I’m Valgeir 👋
+
+I'm a developer/product designer @ [Valka](https://valka.is/)
+
+I'm always working on something fun, check out my [portfolio](https://valgeir.dev/) for more about me.
 
 <!--
 **valgeirb/valgeirb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
