@@ -1,6 +1,6 @@
 # Hello, I’m Valgeir 👋
 
-I'm a developer/product designer @ [Valka](https://valka.is/)
+I'm a developer @ [Next Generation Lotteries](https://www.nextgl.com/)
 
 I'm always working on something fun, check out my [portfolio](https://valgeir.dev/) for more about me.
 
