@@ -1,6 +1,6 @@
 # Hello, I’m Valgeir 👋
 
-I'm a developer @ [Syndis](https://syndis.is/)
+I'm a developer and product designer @ [Syndis](https://syndis.is/)
 
 I'm always working on something fun, check out my [portfolio](https://valgeir.dev/) for more about me.
 
