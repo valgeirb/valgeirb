@@ -1,10 +1,10 @@
 # Hello, I’m Valgeir 👋
 
-I'm a developer and product designer @ [Syndis](https://syndis.is/)
+- I'm a developer and product designer @ [Syndis](https://syndis.is/)
 
-I’m continuously building and refining [Aftra](https://aftra.io/), a brand new SaaS platform, where I lead both the frontend development and design.
+- I’m continuously building and refining [Aftra](https://aftra.io/), a brand new SaaS platform, where I lead both the frontend development and design.
 
-I'm always working on something fun, check out my [portfolio](https://valgeir.dev/) for more about me.
+- I'm always working on something fun, check out my [portfolio](https://valgeir.dev/) for more about me.
 
 <!--
 **valgeirb/valgeirb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
