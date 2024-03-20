@@ -2,6 +2,8 @@
 
 I'm a developer and product designer @ [Syndis](https://syndis.is/)
 
+I’m continuously building and refining [Aftra](https://aftra.io/), a brand new SaaS platform, where I lead both the frontend development and design.
+
 I'm always working on something fun, check out my [portfolio](https://valgeir.dev/) for more about me.
 
 <!--
